@@ -36,7 +36,7 @@ Check for improvement: Does the car feel easy to use?
 
 Due to being sick the previous week, I did not attend the in-person playtesting but I still managed to receive playtetsing feedback from my friends and family. 
 
-In the playtesting session, my testers were all happy too see the return of the Akina downhill (level name) but felt that the new car mechanics made the car hard to maneuver in the "arcade"-esque level. This was the most prominent focus since the previous iteration. 
+In the playtesting session, my testers were all happy to see the return of the Akina downhill (level name) but felt that the new car mechanics made the car hard to maneuver in the "arcade"-esque level. This was the most prominent focus since the previous iteration. 
 
 I managed to make some changes to the UI and logistics of the game (ability to restart, teleport to race start, saving best times, etc.) Which players were very happy to use. I noticed that in this iteration of the playtest, people felt that driving safer was better because crashing now meant you lost all your speed. This helped better resolve the game's identity as more realistic as far as physics behave.
 
